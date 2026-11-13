@@ -1,5 +1,5 @@
 # Triggle
 
-![Triggle1](Trigle1.png)
+![Triggle1](Triggle1.png)
 
-![Triggle2](Trigle2.png)
+![Triggle2](Triggle2.png)
